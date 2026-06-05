@@ -1,6 +1,10 @@
 # 06-DESIGN-AND-ANALYSIS-OF-MICROSTRIP-ANTENNA-USING-CST-MICROWAVE-STUDIO (SCHEMATIC)
 
-**Aim of the Experiment:** To design a quarter wave transformer for matching a 50 Ohm microstrip line with a load of 123 Ohms Software to be used: CST studio suite 2019 (Student edition)
+**Aim of the Experiment:** 
+To design and analyze a rectangular microstrip patch antenna using CST Microwave Studio and study its radiation characteristics.
+## Theory
+
+A microstrip patch antenna consists of a conducting patch printed on a dielectric substrate above a ground plane. It is widely used in wireless communication systems due to its low profile, light weight, compact size, and ease of fabrication.
 
 **Design:**
 
@@ -15,5 +19,5 @@ RF system architecture can be implemented using RF System models available in th
 <img width="619" height="475" alt="image" src="https://github.com/user-attachments/assets/18400bc4-b166-4809-a232-3115221101a9" />
 
 **Conclusion:**
-
+Thus, the rectangular microstrip patch antenna was designed and analyzed using CST Microwave Studio. The antenna characteristics such as return loss, VSWR, gain, and radiation pattern were obtained successfully.
 
