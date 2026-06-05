@@ -2,6 +2,7 @@
 
 **Aim of the Experiment:** 
 To design and analyze a rectangular microstrip patch antenna using CST Microwave Studio and study its radiation characteristics.
+
 ## Theory
 
 A microstrip patch antenna consists of a conducting patch printed on a dielectric substrate above a ground plane. It is widely used in wireless communication systems due to its low profile, light weight, compact size, and ease of fabrication.
