@@ -6,10 +6,6 @@ To design a quarter wave transformer for matching a 50 Ohm microstrip line with 
 
 RF system architecture can be implemented using RF System models available in the Analog/RF library
 
-**Design:**
-
-RF system architecture can be implemented using RF System models available in the Analog/RF library
-
 <img width="547" height="331" alt="image" src="https://github.com/user-attachments/assets/fc24ae21-e73c-4776-afd1-4bb93913eb8d" />
 
 <img width="619" height="495" alt="image" src="https://github.com/user-attachments/assets/9748f6b7-e92f-4719-a71b-9392384af431" />
